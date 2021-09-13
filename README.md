@@ -5,5 +5,5 @@ line 18-25: Please put your own information
 line 53: Getting your address for health code from government
 line 24-25 and 55~65: Inserting the address by yourself
 
-If you want to insert your address yourseslf, please don't comment line24~25 and 55~65 but commented on line53.
+If you want to insert your address yourseslf, please don't comment line24-25 and 55-65 but commented on line 53.
 For line 24-25, the information should be tested by yourself.
