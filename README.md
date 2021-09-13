@@ -16,3 +16,6 @@ For this coding, I tested what I should input in order to get only one option to
 - search_address: your input text
 - complete_address: the information that can be searched from the website
 ![building](https://github.com/kaian0414/healthy-code/blob/main/building.png)
+
+Result
+![building](https://github.com/kaian0414/healthy-code/blob/main/healthCode_result.jpg)
