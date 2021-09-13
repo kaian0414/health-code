@@ -19,4 +19,4 @@ For this coding, I tested what I should input in order to get only one option to
 
 Result
 
-![healthCode_result](https://github.com/kaian0414/healthy-code/blob/main/healthCode_result.jpg | width=200)
+![healthCode_result](https://github.com/kaian0414/healthy-code/blob/main/healthCode_result.jpg){:width="200px"}
