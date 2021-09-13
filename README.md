@@ -3,6 +3,8 @@ This is the codes for automatic generating the health code with using the web ve
 
 line 18-25: Please put your own information
 
+line 35: Male or Female. The coding is presenting as female, if you are male, please replace option[2] instead of option[3].
+
 line 53: Getting your address for health code from government
 
 line 24-25 and 55~65: Inserting the address by yourself
