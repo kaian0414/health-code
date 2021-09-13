@@ -1,5 +1,7 @@
 # healthy-code
-This is the codes for automatic generating the health code with using the web version on 13-Sept-2021. It is just for learning, If you want to use this code for further learning, please be careful of inputting REAL information and health states.
+This is the codes for automatic generating the health code with using the web version on 13-Sept-2021. It is just for learning, If you want to use this code for further learning, please be careful of inputting **REAL** information and health states.
+
+######Since the concepts of version 1 is not really good in implementation, I updated version 2 at night. All the information in this repository is updated.
 
 line 21-29: Please put your own information
 
