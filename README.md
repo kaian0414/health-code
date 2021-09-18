@@ -39,6 +39,9 @@ Please note that you need to install selenium before running the code. ```pip in
 
 After that, learn from the code. I put some comment while coding and I hope you can understand.
 
+You may realise there are some codes like '/html/body/div[2]/a', those are XPath from the websiter. The follow schematic diagram shows how to get the XPath from the website.
+![devtools](https://user-images.githubusercontent.com/34164281/133878572-38861e56-6355-4b1d-9a41-336f4a06ae81.png)
+
 ## Information of using my code
 - line 11: Please the directory of 'chromedriver.exe'
 - line 21-29: Please put your own information
