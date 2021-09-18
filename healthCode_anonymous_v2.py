@@ -95,6 +95,6 @@ driver.find_element_by_xpath('/html/body/div[4]/div[1]/div[9]/div[2]/div[1]').cl
 
 # 截圖及儲存
 time.sleep(5) # 因為提交後, 要比少少時間等個page loading出健康碼, 等一陣先截圖
-driver.save_screenshot('../../../Dropbox/kaian_healthy_code.png')
+driver.save_screenshot('../../../Dropbox/healthy_code.png')
 
 driver.close()
