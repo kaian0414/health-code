@@ -24,10 +24,9 @@ Download Google Chrome: https://www.google.com/intl/zh-TW/chrome/
 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
-**Step 3: Put 'chromedriver.exe' under the folder where the 'chrome.exe' is in.**
+**Step 3: Put 'chromedriver.exe' in the same directory OR other path.**
 
-My directory: ```C:\Program Files (x86)\Google\Chrome\Application```
-Your directory may *similar* as mine.
+Remember to put your own path in the code.
 
 
 **Step 4: Start Coding**
